@@ -40,7 +40,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como **Desenvolvedor Backend Júnior**, contribuindo com APIs REST, Django e Python.
+Busco minha primeira oportunidade como **Desenvolvedor Backend Júnior** para aplicar e evoluir meus conhecimentos em Python, Django e APIs REST, contribuindo com soluções bem estruturadas e código limpo.
 
 ---
 
