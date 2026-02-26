@@ -40,8 +40,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como Desenvolvedor Backend Júnior ou Trainee para aplicar meus conhecimentos e evoluir profissionalmente.
-
+Busco minha primeira oportunidade como Desenvolvedor Backend Júnior ou Trainee, contribuindo com APIs REST, Django e Python, enquanto evoluo tecnicamente e agrego valor ao time.
 ---
 
 ## 📫 Como me encontrar
