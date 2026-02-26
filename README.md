@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcio Candido Pinto
 
-<!--
-**marciocandidop1990-sys/marciocandidop1990-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend Júnior focado em Python e Django  
+🚀 Em transição de carreira para a área de tecnologia  
+📍 São Gonçalo - RJ  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- Python
+- Django
+- Django REST Framework
+- APIs REST
+- SQL
+- Git e GitHub
+- Programação Orientada a Objetos
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Sistema de Tarefas - API REST**
+- CRUD completo
+- Autenticação via Token
+- Django REST Framework
+
+🔹 **Blog Django Profissional**
+- CRUD de posts
+- Paginação
+- Upload de imagens
+- Estrutura organizada em apps
+
+🔹 **Exercícios de Lógica em Python**
+- Calculadora completa
+- Tratamento de erros
+- Histórico salvo em arquivo TXT
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Backend Júnior ou Trainee para aplicar meus conhecimentos e evoluir profissionalmente.
+
+---
+
+## 📫 Como me encontrar
+
+- LinkedIn: https://www.linkedin.com/in/marcio-candido
+- GitHub: https://github.com/marciocandidop1990-sys
